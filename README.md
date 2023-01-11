@@ -14,7 +14,7 @@
     <a href="https://github.com/alexisburgos1/SneakersLovers"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[https://SneakersLovers.vercel.app/](https://sneakers-lover.vercel.app/)">View Demo</a>
+    <a href="https://sneakers-lover.vercel.app/">View Demo in Vercel</a>
     
   </p>
 </div>
@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://ibb.co/wCFGGFG)
+
 
 Sneakers Lovers! is an ecommerce for all those customer who are looking to enjoy a shop with the newest products at sale.
 This was being created in order to understand and apply all the techniques learned during the React js course from Corderhouse using  CSS framework and Firebase database. I've implemented components, promises, events, hooks, rounting & navegation.
