@@ -14,7 +14,7 @@
     <a href="https://github.com/alexisburgos1/SneakersLovers"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://SneakersLovers.vercel.app/">View Demo</a>
+    <a href="[https://SneakersLovers.vercel.app/](https://sneakers-lover.vercel.app/)">View Demo</a>
     
   </p>
 </div>
